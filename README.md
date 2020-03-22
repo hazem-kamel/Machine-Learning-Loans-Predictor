@@ -33,6 +33,6 @@ The Dataframe were splited to generate a training set and a test set to increase
  * Support Vector Machine
  * Logistic Regression
  
- The accuracy were then tested using the test set with accuracy_score, f1_score ,jaccard_similarity_score.
+ The accuracy were then evaluated using the test set with accuracy_score, f1_score ,jaccard_similarity_score to find the best algorithm to predicit the loans status.
  
  
